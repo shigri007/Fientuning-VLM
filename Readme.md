@@ -208,8 +208,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Acknowledgments**
 
-- **[Transformers by Hugging Face](https://huggingface.co/)**: For the Florence-2 model and utilities.  
-- **[Roboflow](https://roboflow.com/)**: For dataset management and APIs.  
-- **[Supervision](https://github.com/roboflow-ai/supervision)**: For bounding box and label rendering.  
+- **[Transformers by Hugging Face](https://huggingface.co/)**: For the Florence-2 model and utilities.    
 
 ---
